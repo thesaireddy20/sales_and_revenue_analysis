@@ -79,9 +79,15 @@ This project showcases data analytics and visualization capabilities to help org
 ---
 
 ## 📸 Dashboard Preview
-![Sales and Revenue Dashboard Screenshot](sales_and_revenue_analysis_1.png,sales_and_revenue_analysis_2.png,sales_and_revenue_analysis_3.png,sales_and_revenue_analysis_4.png,sales_and_revenue_analysis_5.png,sales_and_revenue_analysis_6.png)
+![Sales and Revenue Dashboard Screenshot](sales_and_revenue_analysis_1.png)
+![Sales and Revenue Dashboard Screenshot](sales_and_revenue_analysis_2.png)
+![Sales and Revenue Dashboard Screenshot](sales_and_revenue_analysis_3.png)
+![Sales and Revenue Dashboard Screenshot](sales_and_revenue_analysis_4.png)
+![Sales and Revenue Dashboard Screenshot](sales_and_revenue_analysis_5.png)
+![Sales and Revenue Dashboard Screenshot](sales_and_revenue_analysis_6.png)
 
-*(The above image is an actual screenshot from the Power BI dashboard.)*
+
+*(The above images are actual screenshot from the Power BI dashboard.)*
 
 ---
 
